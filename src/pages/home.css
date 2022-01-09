@@ -1,0 +1,24 @@
+/* .bg{
+    background-image: url('../assets/bg.jpg');
+    background-repeat: no-repeat;
+    height: 48vh;
+    background-size: cover;
+} */
+.p-03{
+    padding-top: 3%;
+}
+.searchf{
+    padding:3%;
+    background:black;
+    border:none;
+    color: white;
+}
+::placeholder {
+    color: white;
+  }
+
+  input[type="text"]::placeholder { 
+                  
+  
+    text-align: center;
+}
